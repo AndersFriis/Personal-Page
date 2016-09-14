@@ -1,0 +1,56 @@
+.nav{
+    border:5px solid #ccc;
+    border-width:10px 0;
+    list-style:none;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    z-index: 1;
+    text-align:center;
+
+    
+}
+.nav li{
+    display:inline;
+}
+.nav a{
+    display:inline-block;
+    padding:10px;
+    color: white;
+    font-size: 25px;
+}
+
+.My_Story{
+    position: relative;
+    font-size: 20px;
+    width: 20%;
+    margin-top: 10%;
+    left: 5%;
+    color: white;
+}
+
+.Intro{
+    font-family: arial-black;
+    font-size: 35px
+    position: relative;
+    margin-top: 20%;
+    margin-left: 40%;
+}
+
+
+img {
+    position: relative;
+    display: block;
+    right: -30%;
+    width: 10%;
+    margin-top: -10%
+    
+}
+
+.page-footer {
+    position: fixed;
+    bottom: 0;
+    color: white;
+}
+
